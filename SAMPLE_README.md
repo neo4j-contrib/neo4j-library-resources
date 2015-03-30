@@ -1,7 +1,7 @@
 
 # What is Neo4j?
 
-Neo4j is a transactional, open-source graph database.  A graph database stores data in a graph, the most generic of data structures, capable of elegantly representing any kind of data in a highly accessible way.  Specifically data is stored in nodes and relationships between nodes, both of which can store properties.  To learn more visit [What is a Graph Database?](http://neo4j.com/developer/graph-database/)
+Neo4j is a transactional, open-source graph database.  A graph database manages data in a connected data structure, capable of  representing any kind of data in a very accessible way.  Information is stored in nodes and relationships connecting them, both of which can have arbitrary properties.  To learn more visit [What is a Graph Database?](http://neo4j.com/developer/graph-database/)
 
 # What is <driver name here>?
 
@@ -34,9 +34,11 @@ A brief description of your project
 
 | **Feature**          | **Supported?** |
 |----------------------|----------------|
-| Embedded JVM support |  <Yes/No>      |
+| Auth                 |  <Yes/No>      |
+| Remote Cypher        |  <Yes/No>      |
 | Transactions         |  <Yes/No>      |
 | High Availability    |  <Yes/No>      |
+| Embedded JVM support |  <Yes/No>      |
 
 # Getting help
 
@@ -58,6 +60,8 @@ A brief description of your project
 
       // Link to a place where people can ask a StackOverflow question and automatically tag it
       http://stackoverflow.com/questions/ask?tags=<your tag here>
+      // Your google group or mailing list
+      http://groups.google.com/group/<name>
 
       // Have a Gitter chat room for support
       https://gitter.im/<user|org>/<repo>
