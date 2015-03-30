@@ -38,7 +38,7 @@ A brief description of your project
 | Transactions         |  <Yes/No>      |
 | High Availability    |  <Yes/No>      |
 
-## Getting help
+# Getting help
 
     <links to documentation, issue list and issue reporting, E-Mail/mailing list/StackOverflow tag/twitter/other social media>
 
