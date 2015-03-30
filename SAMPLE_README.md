@@ -40,34 +40,34 @@ A brief description of your project
 
 ## Getting help
 
-<links to documentation, issue list and issue reporting, E-Mail/mailing list/StackOverflow tag/twitter/other social media>
+    <links to documentation, issue list and issue reporting, E-Mail/mailing list/StackOverflow tag/twitter/other social media>
 
-<Also, consider having a `CONTRIBUTING` file in your project to help people know how your project works and how they can help: https://github.com/blog/1184-contributing-guidelines >
+    <Also, consider having a `CONTRIBUTING` file in your project to help people know how your project works and how they can help: https://github.com/blog/1184-contributing-guidelines >
 
-<
-  Some optional example links:
+    <
+      Some optional example links:
 
-  // Link to documentation!
+      // Link to documentation!
 
-  // Link to your repo issue list:
-  https://github.com/<user|org>/<repo>/issues
-  // Link to New Issue page to make it two steps easier:
-  https://github.com/<user|org>/<repo>/issues/new
-  // ...or use waffle.io to coordinate on GitHub issues
-  https://waffle.io/<user|org>/<repo>
+      // Link to your repo issue list:
+      https://github.com/<user|org>/<repo>/issues
+      // Link to New Issue page to make it two steps easier:
+      https://github.com/<user|org>/<repo>/issues/new
+      // ...or use waffle.io to coordinate on GitHub issues
+      https://waffle.io/<user|org>/<repo>
 
-  // Link to a place where people can ask a StackOverflow question and automatically tag it
-  http://stackoverflow.com/questions/ask?tags=<your tag here>
+      // Link to a place where people can ask a StackOverflow question and automatically tag it
+      http://stackoverflow.com/questions/ask?tags=<your tag here>
 
-  // Have a Gitter chat room for support
-  https://gitter.im/<user|org>/<repo>
+      // Have a Gitter chat room for support
+      https://gitter.im/<user|org>/<repo>
 
-  // Share your social media account or create one dedicated to your project
-  https://twitter.com/<username>
-  https://plus.google.com/<user or organization>
+      // Share your social media account or create one dedicated to your project
+      https://twitter.com/<username>
+      https://plus.google.com/<user or organization>
 
-  // Share a link to your local meetup group in case people want to ask you questions
-  http://www.meetup.com/<group name>
-  
->
+      // Share a link to your local meetup group in case people want to ask you questions
+      http://www.meetup.com/<group name>
+      
+    >
 
